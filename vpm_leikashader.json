@@ -1,0 +1,22 @@
+{
+  "packages": {
+    "com.chatgpt.leikashader": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.chatgpt.leikashader",
+          "displayName": "Leikashader",
+          "version": "1.0.0",
+          "description": "Lightweight VRChat avatar shader with Poiyomi-style features and lilToon-like usability.",
+          "unity": "2022.3",
+          "author": {
+            "name": "ChatGPT",
+            "url": "https://openai.com"
+          },
+          "legacyFolders": [],
+          "vpmDependencies": {},
+          "url": "https://example.com/leikashader/1.0.0.zip"
+        }
+      }
+    }
+  }
+}
