@@ -3,7 +3,7 @@
     "com.chatgpt.leikashader": {
       "versions": {
         "1.0.0": {
-          "name": "com.chatgpt.leikashader",
+          "name": "leika",
           "displayName": "Leikashader",
           "version": "1.0.0",
           "description": "Lightweight VRChat avatar shader with Poiyomi-style features and lilToon-like usability.",
